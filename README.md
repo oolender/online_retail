@@ -4,8 +4,6 @@ Data analysis project using Python, pandas and seaborn to explore transactional 
 
 Dataset source: [UCI Machine Learning Repository – Online Retail](https://archive.ics.uci.edu/dataset/352/online+retail).
 
----
-
 ## 🎯 Project goal
 
 The goal of this project is to:
@@ -13,7 +11,6 @@ The goal of this project is to:
 - identify the most important countries and products,
 - analyze customer behavior (number of orders, total spending).
 
----
 
 ## 🔎 Dataset overview
 
@@ -28,7 +25,6 @@ Main columns:
 - `CustomerID` – customer identifier,
 - `Country` – customer country.
 
----
 
 ## 🧩 Features
 
@@ -48,7 +44,6 @@ notebook
 business insights
    - `business_insights.md` with visualisations and clue business insights.
 
----
 
 # ⚙️ Getting Started
 
@@ -58,7 +53,6 @@ Install dependencies: pip install -r requirements.txt
 
 Run the notebook: jupyter notebook `online_retail.ipynb`
 
----
 
 # 🛠️ Technologies
 Python 3.9.6
@@ -69,7 +63,6 @@ seaborn & matplotlib – visualization
 
 Jupyter Notebook – interactive analysis
 
----
 
 🤝🏻 Contribution
 Feel free to open issues or pull requests if you have suggestions for improvements, new analyses, or additional visualizations.📊
