@@ -64,5 +64,5 @@ seaborn & matplotlib – visualization
 Jupyter Notebook – interactive analysis
 
 
-🤝🏻 Contribution
+# 🤝🏻 Contribution
 Feel free to open issues or pull requests if you have suggestions for improvements, new analyses, or additional visualizations.📊
